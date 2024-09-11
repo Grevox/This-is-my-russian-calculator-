@@ -60,6 +60,7 @@ class one
             long Comradee = System.Convert.ToInt64(Comrade2);
             long Censored = Comrade % Comradee;
             Console.WriteLine("her ar de results " + Censored);
+string Secretstring = "u found a secret string!!!!!!!"; 
         }
 
 
